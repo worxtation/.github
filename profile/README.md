@@ -2,22 +2,23 @@
 
 # Worxtation
 
-**Tecnologia que trabalha pelo seu negócio.**
+**We build software that moves businesses forward.**
 
-Somos uma fábrica de software especializada em soluções sob medida — transformando processos e ideias em sistemas, integrações e plataformas digitais que aumentam eficiência, reduzem custos e criam vantagem competitiva.
-
----
-
-### O que construímos
-
-🔧 **Sistemas sob medida** — do processo manual ao sistema que escala  
-🔗 **Integrações** — conectando o que você já usa, sem jogar tudo fora  
-🚀 **Plataformas digitais** — produtos que sustentam o crescimento do negócio  
-🤖 **Automação & IA** — eficiência operacional com tecnologia de ponta
+Engineering studio especializado em sistemas, integrações e produtos digitais sob medida —
+para empresas que querem usar tecnologia como vantagem competitiva real, não só como ferramenta.
 
 ---
 
-### Stack principal
+### O que entregamos
+
+⚙️ **Product Engineering** — da ideia ao produto digital escalável  
+🔗 **Systems Integration** — conectando stacks legadas a arquiteturas modernas  
+🤖 **AI & Automation** — workflows inteligentes que eliminam fricção operacional  
+�� **Platform Development** — infraestrutura e plataformas que crescem com o negócio
+
+---
+
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-0F1E3C?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F1E3C?style=flat&logo=fastapi&logoColor=white)
