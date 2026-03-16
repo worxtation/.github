@@ -2,9 +2,9 @@
 
 # Worxtation
 
-**We build software that moves businesses forward.**
+**Tecnologia que trabalha pelo seu negócio.**
 
-Engineering studio especializado em sistemas, integrações e produtos digitais sob medida —
+Empresa de tecnologia especializada em sistemas, integrações e produtos digitais sob medida —
 para empresas que querem usar tecnologia como vantagem competitiva real, não só como ferramenta.
 
 </div>
@@ -13,12 +13,12 @@ para empresas que querem usar tecnologia como vantagem competitiva real, não s�
 
 ### O que entregamos
 
-⚙️ **Product Engineering** — da ideia ao produto digital escalável, com entrega ponta a ponta  
-🔗 **Systems Integration** — conectando stacks legadas a arquiteturas modernas via APIs, gateways e microserviços  
-🤖 **AI & Automation** — workflows inteligentes que eliminam fricção e transformam processos manuais em fluxos automatizados  
-📊 **Data & Analytics** — Data Warehouse, pipelines ETL e dashboards que substituem planilhas por decisões baseadas em dados  
-🔒 **Secure Architecture** — sistemas construídos com segurança desde o design: OAuth2, JWT, mTLS e boas práticas de API security  
-🚀 **Platform Development** — infraestrutura e plataformas escaláveis com CI/CD, observabilidade e alta disponibilidade
+⚙️ **Engenharia de Produto** — da ideia ao produto digital escalável, com entrega ponta a ponta  
+🔗 **Integrações de Sistemas** — conectando tecnologias legadas a arquiteturas modernas via APIs, gateways e microsserviços  
+🤖 **Automação & IA** — fluxos inteligentes que eliminam fricção e transformam processos manuais em operações automatizadas  
+📊 **Dados & Analytics** — Data Warehouse, pipelines de dados e dashboards que substituem planilhas por decisões baseadas em dados  
+🔒 **Arquitetura Segura** — sistemas construídos com segurança desde o design: OAuth2, JWT, mTLS e boas práticas de segurança em APIs  
+🚀 **Desenvolvimento de Plataformas** — infraestrutura e plataformas escaláveis com CI/CD, observabilidade e alta disponibilidade
 
 ---
 
